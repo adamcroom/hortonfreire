@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	var quoteSource=[
 
-	{quote: "People's knowledge, in which the body has much more place than in our way of thinking and knowing.", name:"Friere"},
+{quote: "People's knowledge, in which the body has much more place than in our way of thinking and knowing.", name:" Paolo Friere"},
 {quote: "Without practice there is no knowledge.", name:"Paolo Freire"},
 {quote: "There can be no such thing as neutrality. It's a code word for the existing system.", name:"Myles Horton"},
 {quote: "It's the structures of society that we've got to change. We don't change men's hearts.", name:"Myles Horton"},
@@ -23,7 +23,7 @@ $(document).ready(function(){
 {quote: "We had been successful at Highlander earlier in organizing a county in which we lived, organizing the unions, and organizing the county politically. We took over the county politically by using education.", name:"Myles Horton"},
 {quote: "Within that framework I was interested in going as far as I could in helping people develop the capacity to make decisions and to take responsibility, which is what I think is the role of educator.", name:"Myles Horton"},
 {quote: "The best way you had to intervene was to reject giving the solution and secondly to be honest.", name:"Paolo Freire"},
-{quote: "An organizer's job is not to educate people as a prime consideration. His job is to accomplish a limited, specific goal.,Name:Myles Horton"},
+{quote: "An organizer's job is not to educate people as a prime consideration. His job is to accomplish a limited, specific goal.", Name:"Myles Horton"},
 {quote: "I didn't want the expert to tell them what to do. I wanted the expert to tell them the facts and let them decide what to do.", name:"Myles Horton"},
 {quote: "I've never yet found any experts that know where the line is. If people who want to be experts want to tell people what to do because they think it's their duty to tell them what to do, to me that takes away the power of people to make decisions.", name:"Myles Horton"},
 {quote: "How is it possible for us to work in a community without feeling the spirit of the culture that has been there for many years, without trying to understand the soul of the culture? We cannot interfere in this culture. Without understanding the soul of the culture we just invade the culture.", name:"Paolo Freire"},
