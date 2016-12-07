@@ -37,7 +37,7 @@ $(document).ready(function(){
 {quote: "Every time it was possible for children, without risking their lives, to learn by doing, I preferred that they do this.", name:"Paolo Freire"},
 {quote: "Without the limits, it's impossible for freedom to become freedom and also it's impossible for authority to accomplish its duty, which is precisely to structure limits.", name:"Paolo Freire"},
 {quote: "If you use that idea of limits, you've got to also think of how people accept limits that don't even exist--like in the university... Most of them could get by, could do much more than they realize they can do... Most people will find out they can go much further in an institution that is big and bureaucratic and depends primarily on reports and grades.", name:"Myles Horton"},
-{quote: "Once people find they can survive outside the limits, they're much happier.", name:"Myles Horton"}
+{quote: "Once people find they can survive outside the limits, they're much happier.", name:"Myles Horton"},
 {quote: "My system is to make him thirsty, so he'll volunteer to drink.", name:"Myles Horton"},
 {quote: "the delicate relationship between teaching, giving knowl­edge, and learning knowledge", name:"Third Party"},
 {quote: "I think it's my responsi­bility to share what I believe in, not only in discussions but in the way I live and in the way the workshops run and in the way Highlander's run, the way life is.", name:"Myles Horton"},
@@ -84,7 +84,8 @@ $(document).ready(function(){
 {quote: "MYLES: Well I think you have to divide that into principles. When I say what I believe, I'm talking about prin­ciples such as love and democracy, where people control their Jives. THIRD PARTY: Your vision. MYLES: My vision. Now the strategy for my vision, the ap­proaches and processes, I've learned from other people.", name:"Myles Horton"},
 {quote: "any kind of prob­lem has five or six good solutions and five or six bad solutions.", name:"Myles Horton"},
 {quote: "If you have a convic­tion, you have a responsibility to act on that conviction where you can, and if you're doing education, you act on it in an educational context.", name:"Myles Horton"},
-{quote: "For me it has always been a political question, not exclusively an edu­cational question, at what levels students take part in the process of organizing the curriculum.", name:"Paulo Freire"},
+{quote: "For me it has always been a political question, not exclusively an edu­cational question, at what levels students take part in the process of organizing the curriculum.", name:"Paulo Freire"}
+
 
 ];
 
