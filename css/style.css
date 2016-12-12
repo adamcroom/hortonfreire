@@ -41,7 +41,7 @@ body{
 #quoteButton:hover{
 	cursor:pointer;
 	background:#09c;
-	color: #fff;	
+	color: #fff;
 }
 #quoteButton:active{
 	cursor: pointer;
@@ -54,7 +54,11 @@ body{
 	font-weight: 600;
 	text-align: center;
 }
-
+#quoteHypo{
+  font-size: 50%;
+  vertical-align: top;
+  content: "+";
+}
 
 /*MEDIA QUERIES*/
 @media screen and(max-width:760px){
